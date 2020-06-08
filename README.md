@@ -13,8 +13,6 @@ Para isso será necessário o uso de HTML e CSS, também disponibilizamos as ima
 
 - Criar interações JavaScript, como por exemplo clique nos botões exibindo o título correspondente.
 
-- Pode estar utilizando algum Framework JavaScript de sua preferência, por exemplo, React, Angular ou Vue.
-
 - Criar elementos, como por exemplo, botões, header etc, no formato de componentes.
 
 ## Entrega do teste
