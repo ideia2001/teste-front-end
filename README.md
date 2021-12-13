@@ -15,4 +15,4 @@ Para isso será necessário o uso de HTML e CSS, também disponibilizamos as ima
 
 ## Entrega do teste
 
-Ao finalizar seu teste, compactar em formato zip sem a pasta node_modules (caso tenha usado npm), e enviar para o seguinte e-mail: vagas@ideia2001.com.br, com o assunto TESTEFRONTEND.
+Ao finalizar seu teste, compactar em formato zip sem a pasta node_modules (caso tenha usado npm), e enviar para o seguinte e-mail: vagas@ideia2001.com.br, com o assunto "TESTEFRONTEND". Enviar também currículo atualizado. Favor se identificar.
