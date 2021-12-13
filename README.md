@@ -13,8 +13,6 @@ Para isso será necessário o uso de HTML e CSS, também disponibilizamos as ima
 
 - Criar interações JavaScript, como por exemplo clique nos botões exibindo o título correspondente.
 
-- Criar elementos, como por exemplo, botões, header etc, no formato de componentes.
-
 ## Entrega do teste
 
 Ao finalizar seu teste, compactar em formato zip sem a pasta node_modules (caso tenha usado npm), e enviar para o seguinte e-mail: igor@ideia2001.com.br
