@@ -1,6 +1,6 @@
 # Teste para candidatos à vaga de estágio Desenvolvedor(a) Front-end Ideia 2001
 
-![logo](https://user-images.githubusercontent.com/13858601/49169002-eff2c280-f31f-11e8-810b-1ee26c850718.png)
+![logo-ideia](https://user-images.githubusercontent.com/37415775/145830985-31161218-ce0f-4c05-9787-58e630e6b29b.png)
 
 ## Teste
 
