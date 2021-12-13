@@ -1,4 +1,4 @@
-# Teste para candidatos à vaga de estágio Desenvolvedor(a) Front-end Ideia 2001
+# Teste para candidatos à vaga de Desenvolvedor(a) Front-end Ideia 2001
 
 ![logo-ideia](https://user-images.githubusercontent.com/37415775/145830985-31161218-ce0f-4c05-9787-58e630e6b29b.png)
 
